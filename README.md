@@ -34,3 +34,24 @@ But, I aint an expert in this is so be aware of that fact
 #### 1.Press guided
 #### 2.Select to create all 3 folders 
 #### 3.Press yes ####
+
+<img width="1196" alt="Screen Shot 2022-11-28 at 3 49 14 PM" src="https://user-images.githubusercontent.com/49612380/204307338-5f9337c8-e509-4a7b-82a0-1c43f59394a7.png">
+
+
+#### Set up the encryption
+
+#### Type max in Partition disks 
+
+<img width="1197" alt="Screen Shot 2022-11-28 at 3 51 54 PM" src="https://user-images.githubusercontent.com/49612380/204307918-ff5b4181-ac13-443a-b470-c2f5f4<img width="1195" alt="Screen Shot 2022-11-28 at 3 52 43 PM" src="https://user-images.githubusercontent.com/49612380/204308215-89e3918a-3361-400e-9fc9-878dde46e0f6.png">
+524633.png">
+#### Finish
+
+<img width="1195" alt="Screen Shot 2022-11-28 at 3 52 43 PM" src="https://user-images.githubusercontent.com/49612380/204309139-bd1bf978-4a30-4ec6-8c34-af4fff46940e.png">
+#### Yes
+
+<img width="1200" alt="Screen Shot 2022-11-28 at 3 55 59 PM" src="https://user-images.githubusercontent.com/49612380/204309186-d86584fc-aa14-45aa-ad36-acc5842f99d7.png">
+
+<img width="1202" alt="Screen Shot 2022-11-28 at 3 56 22 PM" src="https://user-images.githubusercontent.com/49612380/204309208-01daef72-3a35-47d1-a81c-4c8912ab79e9.png">
+
+
+
