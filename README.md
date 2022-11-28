@@ -1,5 +1,5 @@
 # Unix Analfabets GUIDE to Born2BeRoot #
-## WARNING I DO NOT UNDERSTAND THIS SO WELL, SO DO NOT COPY THIS ##
+## WARNING I DO NOT COMPREHEND THIS SO WELL, SO DO NOT COPY THIS ##
 Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
 But, I aint an expert in this is so be aware of that fact
 
