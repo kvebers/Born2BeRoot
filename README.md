@@ -53,3 +53,10 @@ But, I aint an expert in this is so be aware of that fact
 
 <img width="1198" alt="Screen Shot 2022-11-28 at 3 57 40 PM" src="https://user-images.githubusercontent.com/49612380/204309416-92ae659a-ea49-4407-927b-b7c17035474e.png">
 
+<img width="1203" alt="Screen Shot 2022-11-28 at 4 02 54 PM" src="https://user-images.githubusercontent.com/49612380/204311153-0bbce28f-912b-4207-85b2-4e8989e6da74.png">
+
+<img width="1201" alt="Screen Shot 2022-11-28 at 4 03 20 PM" src="https://user-images.githubusercontent.com/49612380/204311164-4dff4f0d-1167-43fb-82c8-f467c0f74c53.png">
+
+<img width="1192" alt="Screen Shot 2022-11-28 at 4 05 06 PM" src="https://user-images.githubusercontent.com/49612380/204311168-47167555-19a0-4fbe-8d54-dc04cc5cd7af.png">
+
+### And Voila you have setup VM with Debian OS
