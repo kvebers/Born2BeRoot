@@ -21,6 +21,16 @@ But, I aint an expert in this is so be aware of that fact
 
 <img width="959" alt="Screen Shot 2022-11-28 at 3 39 24 PM" src="https://user-images.githubusercontent.com/49612380/204305877-b427fc13-7926-4d90-bdaa-266a4c5bd753.png">
 
+#### Language choose english and take the central region germany, UTF -8 American English
+
 ### Seting up the user and password ###
 
 <img width="1200" alt="Screen Shot 2022-11-28 at 3 41 13 PM" src="https://user-images.githubusercontent.com/49612380/204306080-a0dbd712-635b-4e35-a81f-05d3f9369025.png">
+
+### Seting up the partions ###
+
+<img width="1192" alt="Screen Shot 2022-11-28 at 3 45 32 PM" src="https://user-images.githubusercontent.com/49612380/204306524-c7b63958-6836-4df1-96c9-bf0aa7c05b9d.png">
+
+#### 1.Press guided
+#### 2.Select to create all 3 folders 
+#### 3.Press yes ####
