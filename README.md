@@ -4,8 +4,6 @@ Hey, this is my first time toching linux and using OS, without grafical interfac
 But, I aint an expert in this is so be aware of that fact
 
  ### Seting up the Debian ###
-<img width="968" alt="Screen Shot 2022-11-28 at 3 37 26 PM" src="https://user-images.githubusercontent.com/49612380/204310329-a0be9ce8-af1b-4e96-a9c7-481f34b8d623.png">
-
      
 <img width="968" alt="Screen Shot 2022-11-28 at 3 37 26 PM" src="https://user-images.githubusercontent.com/49612380/204305852-b26f4427-b371-442a-9a30-568a42e337a6.png">
 
