@@ -3,7 +3,7 @@
 Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
 But, I aint an expert in this is so be aware of that fact
 
-Seting up the Debian
+ ### Seting up the Debian ###
 <img width="1200" alt="Screen Shot 2022-11-28 at 3 41 13 PM" src="https://user-images.githubusercontent.com/49612380/204305879-7da541bb-b21d-4ebc-a7f5-c00f0d34080e.png"
      
      
@@ -20,3 +20,7 @@ Seting up the Debian
 
 
 <img width="959" alt="Screen Shot 2022-11-28 at 3 39 24 PM" src="https://user-images.githubusercontent.com/49612380/204305877-b427fc13-7926-4d90-bdaa-266a4c5bd753.png">
+
+### Seting up the user and password ###
+
+<img width="1200" alt="Screen Shot 2022-11-28 at 3 41 13 PM" src="https://user-images.githubusercontent.com/49612380/204306080-a0dbd712-635b-4e35-a81f-05d3f9369025.png">
