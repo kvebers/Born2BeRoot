@@ -60,3 +60,12 @@ But, I aint an expert in this is so be aware of that fact
 <img width="1192" alt="Screen Shot 2022-11-28 at 4 05 06 PM" src="https://user-images.githubusercontent.com/49612380/204311168-47167555-19a0-4fbe-8d54-dc04cc5cd7af.png">
 
 ### And Voila you have setup VM with Debian OS
+
+Run 
+
+#### Command to run lsblk ####
+
+<img width="1210" alt="Screen Shot 2022-11-28 at 4 55 00 PM" src="https://user-images.githubusercontent.com/49612380/204323019-bec37720-3686-4393-9c97-e583f92c796e.png">
+
+#### LBLSK runs and lists aviable information about all aviable specific block devices ####
+
