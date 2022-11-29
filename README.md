@@ -1,7 +1,7 @@
 # UnixFABETS GUIDE to Born2BeRoot #
 ## WARNING I AM UNIXFABET, so be aware of that ##
 Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
-But, I aint an expert in this is so be aware of that fact
+ But, I aint an expert in this is so be aware of that fact, so there might be some errors.
 
  ### Seting up the Debian ###
      
