@@ -82,25 +82,25 @@ Alternative is
 
 Aptitude is a text-based interface to the Debian GNU/Linux package system. It allows the user to view the list of packages and to perform package management tasks such as installing, upgrading, and removing packages. Actions may be performed from a visual interface or from the command-line.
 
-##### su - 
+##### 1. su - 
 switches between users 
 
 su , on the other hand, is an acronym for switch user or substitute user. You are basically switching to a particular user and you need the password for the user you are switching to. Most often, the user account you switch to is the root account but it can be any account on the system.
 
-##### apt-get update -y // Install and updates the pacages for each outdated system
-##### apt-get upgrade -y // Confirms the updates
+##### 2. apt-get update -y // Install and updates the pacages for each outdated system
+##### 3. apt-get upgrade -y // Confirms the updates
 
 #### Sudo installation
 
-##### apt install sudo
+##### 4. apt install sudo
 
 <img width="1205" alt="Screen Shot 2022-11-29 at 1 21 38 PM" src="https://user-images.githubusercontent.com/49612380/204528866-29218142-5b62-4577-947f-3b9e290382dc.png">
 
 #### Install Git
 
-##### apt-get update -y
-##### apt-get upgrade -y
-##### apt-get install git -y
+##### 5. apt-get update -y
+##### 6. apt-get upgrade -y
+##### 7. apt-get install git -y
 
 Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
 
@@ -110,16 +110,16 @@ Git is a DevOps tool used for source code management. It is a free and open-sour
 
 Vim is the editor of choice for many developers and power users. It's a “modal” text editor based on the vi editor written by Bill Joy in the 1970s for a version of UNIX. It inherits the key bindings of vi, but also adds a great deal of functionality and extensibility that are missing from the original vi.
 
-###### $ sudo apt-get install vim
+##### 8. sudo apt-get install vim
 
-###### sudo apt-get update
-##### sudo apt install openssh-server
+##### 9. sudo apt-get update
+##### 10. sudo apt install openssh-server
 
 #### UFW
 
 What is UFW? UFW, or uncomplicated firewall, is a frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu. UFW is used through the command line (although it has GUIs available), and aims to make firewall configuration easy (or, uncomplicated).
 
-##### apt-get install ufw
+##### 11. apt-get install ufw
 
 
 
