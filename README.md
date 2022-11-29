@@ -127,6 +127,6 @@ libpwquality's purpose is to provide common functions for password quality check
 
 ##### 12. sudo apt-get install libpam-pwquality
 
-
+## Config of the machine
 
 
