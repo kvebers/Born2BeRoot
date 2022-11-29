@@ -160,7 +160,7 @@ AppArmor is an effective and easy-to-use Linux application security system. AppA
 
 ## Config of the machine
 
-##### 1. adduser  <username> sudo 
+##### 1. adduser username sudo 
 adds user to the sudo group
 ##### 2. reboot 
 restarts the system
@@ -175,7 +175,7 @@ The visudo command opens a text editor like normal, but it validates the syntax 
 
 Add in the 
  
-##### 5. <user_name> ALL=(ALL) ALL
+##### 5. user_name ALL=(ALL) ALL
  
 <img width="939" alt="Screen Shot 2022-11-29 at 5 20 20 PM" src="https://user-images.githubusercontent.com/49612380/204584864-1c5027f1-080a-4121-85e8-3ddc79136ad4.png">
 
