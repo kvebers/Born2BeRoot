@@ -70,3 +70,17 @@ Run
 
 #### lsblk runs and lists aviable information about all aviable specific block devices (except RAM disks) ####
 
+
+#### APT installation 
+
+Advanced Package Tool, more commonly known as APT, is a collection of tools used to install, update, remove, and otherwise manage software packages on Debian and its derivative operating systems, including Ubuntu and Linux Mint.
+
+##### apt-get update -y // Install and updates the pacages for each outdated system
+##### apt-get upgrade -y // Confirms the updates
+
+#### Sudo installation
+
+##### apt install sudo
+
+<img width="1205" alt="Screen Shot 2022-11-29 at 1 21 38 PM" src="https://user-images.githubusercontent.com/49612380/204528866-29218142-5b62-4577-947f-3b9e290382dc.png">
+
