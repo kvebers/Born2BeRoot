@@ -173,3 +173,13 @@ Add in the
 <img width="939" alt="Screen Shot 2022-11-29 at 5 20 20 PM" src="https://user-images.githubusercontent.com/49612380/204584864-1c5027f1-080a-4121-85e8-3ddc79136ad4.png">
 
 To read the sudoers file on each Linux or UNIX computer, you must have root-level permission. You can define a command right to grant this level of access to other users. The default location for the sudoers configuration file is /etc/sudoers, and in general, this is the file to import from each computer.
+ 
+ 
+<img width="948" alt="Screen Shot 2022-11-29 at 6 15 16 PM" src="https://user-images.githubusercontent.com/49612380/204597420-ff499e03-32cf-4591-b501-270d0ca2e9d2.png">
+ 
+ ##### "sudo reboot" usefull command
+ 
+ ##### 6. you can add the same config passwd_tries = 3, badpass_message="text", logfile ="/var/log/sudo, iolog_dir="/var/log/sudo" log_nput
+ #####log_output requiretty
+
+The terminal is also represented as a file. There a command exists called tty which displays information related to terminal. The tty command of terminal basically prints the file name of the terminal connected to standard input
