@@ -1,5 +1,5 @@
-# Unix Analfabets GUIDE to Born2BeRoot #
-## WARNING I AM UNIXFABET so you know be aware of that ##
+# UnixFABETS GUIDE to Born2BeRoot #
+## WARNING I AM UNIXFABET, so be aware of that ##
 Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
 But, I aint an expert in this is so be aware of that fact
 
@@ -101,5 +101,14 @@ su , on the other hand, is an acronym for switch user or substitute user. You ar
 ##### apt-get upgrade -y
 ##### apt-get install git -y
 
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
 <img width="1205" alt="Screen Shot 2022-11-29 at 2 48 40 PM" src="https://user-images.githubusercontent.com/49612380/204546068-c51568b9-1ffa-4990-9a30-359ab8b9fffb.png">
+
+##### VIM
+
+
+
+###### $ sudo apt-get install vim
+
 
