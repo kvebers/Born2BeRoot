@@ -92,6 +92,8 @@ su , on the other hand, is an acronym for switch user or substitute user. You ar
 
 #### Sudo installation
 
+sudo is a program for Unix-like computer operating systems that enables users to run programs with the security privileges of another user
+
 ##### 4. apt install sudo
 
 <img width="1205" alt="Screen Shot 2022-11-29 at 1 21 38 PM" src="https://user-images.githubusercontent.com/49612380/204528866-29218142-5b62-4577-947f-3b9e290382dc.png">
