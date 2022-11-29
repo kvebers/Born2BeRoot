@@ -121,6 +121,11 @@ What is UFW? UFW, or uncomplicated firewall, is a frontend for managing firewall
 
 ##### 11. apt-get install ufw
 
+#### libpam-pwquality
+
+libpwquality's purpose is to provide common functions for password quality checking and also scoring them based on their apparent randomness. The library also provides a function for generating random passwords with good pronounceability.
+
+##### 12. sudo apt-get install libpam-pwquality
 
 
 
