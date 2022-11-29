@@ -70,6 +70,7 @@ Run
 
 #### lsblk runs and lists aviable information about all aviable specific block devices (except RAM disks) ####
 
+## Install the things you will need for the project
 
 #### APT installation 
 
@@ -85,8 +86,6 @@ Aptitude is a text-based interface to the Debian GNU/Linux package system. It al
 switches between users 
 
 su , on the other hand, is an acronym for switch user or substitute user. You are basically switching to a particular user and you need the password for the user you are switching to. Most often, the user account you switch to is the root account but it can be any account on the system.
-
-## Install the things you will need for the project
 
 ##### apt-get update -y // Install and updates the pacages for each outdated system
 ##### apt-get upgrade -y // Confirms the updates
@@ -115,6 +114,14 @@ Vim is the editor of choice for many developers and power users. It's a “modal
 
 ###### sudo apt-get update
 ##### sudo apt install openssh-server
+
+#### UFW
+
+What is UFW? UFW, or uncomplicated firewall, is a frontend for managing firewall rules in Arch Linux, Debian, or Ubuntu. UFW is used through the command line (although it has GUIs available), and aims to make firewall configuration easy (or, uncomplicated).
+
+##### apt-get install ufw
+
+
 
 
 
