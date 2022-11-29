@@ -68,5 +68,5 @@ Run
 
 <img width="1190" alt="Screen Shot 2022-11-29 at 1 00 16 PM" src="https://user-images.githubusercontent.com/49612380/204523773-9d1a4694-3219-494e-833e-163a9d75f71a.png">
 
-#### lsblk runs and lists aviable information about all aviable specific block devices ####
+#### lsblk runs and lists aviable information about all aviable specific block devices (except RAM disks) ####
 
