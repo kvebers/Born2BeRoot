@@ -66,7 +66,7 @@ Run
 
 #### Command to run lsblk ####
 
-<img width="1210" alt="Screen Shot 2022-11-28 at 4 55 00 PM" src="https://user-images.githubusercontent.com/49612380/204323019-bec37720-3686-4393-9c97-e583f92c796e.png">
+<img width="1190" alt="Screen Shot 2022-11-29 at 1 00 16 PM" src="https://user-images.githubusercontent.com/49612380/204523773-9d1a4694-3219-494e-833e-163a9d75f71a.png">
 
-#### LBLSK runs and lists aviable information about all aviable specific block devices ####
+#### lsblk runs and lists aviable information about all aviable specific block devices ####
 
