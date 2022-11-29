@@ -175,7 +175,7 @@ Add in the
 To read the sudoers file on each Linux or UNIX computer, you must have root-level permission. You can define a command right to grant this level of access to other users. The default location for the sudoers configuration file is /etc/sudoers, and in general, this is the file to import from each computer.
  
  
-<img width="948" alt="Screen Shot 2022-11-29 at 6 15 16 PM" src="https://user-images.githubusercontent.com/49612380/204597420-ff499e03-32cf-4591-b501-270d0ca2e9d2.png">
+INPUT THE PICTURE HERE
  
  ##### "sudo reboot" usefull command
  
