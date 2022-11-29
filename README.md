@@ -75,6 +75,12 @@ Run
 
 Advanced Package Tool, more commonly known as APT, is a collection of tools used to install, update, remove, and otherwise manage software packages on Debian and its derivative operating systems, including Ubuntu and Linux Mint.
 
+Alternative is 
+
+#### Aptitude
+
+Aptitude is a text-based interface to the Debian GNU/Linux package system. It allows the user to view the list of packages and to perform package management tasks such as installing, upgrading, and removing packages. Actions may be performed from a visual interface or from the command-line.
+
 ##### su - 
 switches between users 
 
@@ -88,4 +94,12 @@ su , on the other hand, is an acronym for switch user or substitute user. You ar
 ##### apt install sudo
 
 <img width="1205" alt="Screen Shot 2022-11-29 at 1 21 38 PM" src="https://user-images.githubusercontent.com/49612380/204528866-29218142-5b62-4577-947f-3b9e290382dc.png">
+
+#### Install Git
+
+##### apt-get update -y
+##### apt-get upgrade -y
+##### apt-get install git -y
+
+<img width="1205" alt="Screen Shot 2022-11-29 at 2 48 40 PM" src="https://user-images.githubusercontent.com/49612380/204546068-c51568b9-1ffa-4990-9a30-359ab8b9fffb.png">
 
