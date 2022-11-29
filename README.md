@@ -86,6 +86,8 @@ switches between users
 
 su , on the other hand, is an acronym for switch user or substitute user. You are basically switching to a particular user and you need the password for the user you are switching to. Most often, the user account you switch to is the root account but it can be any account on the system.
 
+### Instal the things you will need
+
 ##### apt-get update -y // Install and updates the pacages for each outdated system
 ##### apt-get upgrade -y // Confirms the updates
 
@@ -110,5 +112,9 @@ Git is a DevOps tool used for source code management. It is a free and open-sour
 Vim is the editor of choice for many developers and power users. It's a “modal” text editor based on the vi editor written by Bill Joy in the 1970s for a version of UNIX. It inherits the key bindings of vi, but also adds a great deal of functionality and extensibility that are missing from the original vi.
 
 ###### $ sudo apt-get install vim
+
+###### sudo apt-get update
+##### sudo apt install openssh-server
+
 
 
