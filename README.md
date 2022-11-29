@@ -75,6 +75,11 @@ Run
 
 Advanced Package Tool, more commonly known as APT, is a collection of tools used to install, update, remove, and otherwise manage software packages on Debian and its derivative operating systems, including Ubuntu and Linux Mint.
 
+##### su - 
+switches between users 
+
+su , on the other hand, is an acronym for switch user or substitute user. You are basically switching to a particular user and you need the password for the user you are switching to. Most often, the user account you switch to is the root account but it can be any account on the system.
+
 ##### apt-get update -y // Install and updates the pacages for each outdated system
 ##### apt-get upgrade -y // Confirms the updates
 
