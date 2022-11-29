@@ -131,4 +131,8 @@ libpwquality's purpose is to provide common functions for password quality check
 
 ## Config of the machine
 
+##### 1. adduser <username> sudo
+##### 2 .reboot
+
+
 
