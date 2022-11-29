@@ -179,7 +179,6 @@ To read the sudoers file on each Linux or UNIX computer, you must have root-leve
  
  ##### "sudo reboot" usefull command
  
- ##### 6. you can add the same config passwd_tries = 3, badpass_message="text", logfile ="/var/log/sudo, iolog_dir="/var/log/sudo" log_nput
- #####log_output requiretty
+ ##### 6. you can add the same config passwd_tries = 3, badpass_message="text", requiretty
 
 The terminal is also represented as a file. There a command exists called tty which displays information related to terminal. The tty command of terminal basically prints the file name of the terminal connected to standard input
