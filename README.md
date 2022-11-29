@@ -137,5 +137,8 @@ adds user to the sudo group
 restarts the system
 ##### 3. getent group sudo
 checks for the entities with sudo editing rights
+ 
+<img width="910" alt="Screen Shot 2022-11-29 at 3 58 29 PM" src="https://user-images.githubusercontent.com/49612380/204563501-ee67de89-4797-467b-baa5-87be009de18b.png">
 
+ 
 
