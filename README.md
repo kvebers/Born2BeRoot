@@ -145,6 +145,12 @@ libpwquality's purpose is to provide common functions for password quality check
 
 ##### 12. sudo apt-get install libpam-pwquality
 
+##### AppArmor https://linuxhint.com/debian_apparmor_tutorial/ 
+If you are using Debian 10 "Buster" or newer, AppArmor is enabled by default so you can skip this step.
+
+https://wiki.debian.org/AppArmor 
+AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
+
 ## Config of the machine
 
 ##### 1. adduser <username> sudo 
@@ -155,6 +161,15 @@ restarts the system
 checks for the entities with sudo editing rights
  
 <img width="910" alt="Screen Shot 2022-11-29 at 3 58 29 PM" src="https://user-images.githubusercontent.com/49612380/204563501-ee67de89-4797-467b-baa5-87be009de18b.png">
+ 
+##### 4. sudo visudo privilages
+
+The visudo command opens a text editor like normal, but it validates the syntax of the file upon saving. This prevents configuration errors from blocking sudo operations, which may be your only way of obtaining root privileges. Traditionally, visudo opens the /etc/sudoers file with the vi text editor.
+
+Add in the 
+ 
+##### 5. <user_name> ALL=(ALL) ALL
+ 
+<img width="939" alt="Screen Shot 2022-11-29 at 5 20 20 PM" src="https://user-images.githubusercontent.com/49612380/204584864-1c5027f1-080a-4121-85e8-3ddc79136ad4.png">
 
  
-
