@@ -86,7 +86,7 @@ switches between users
 
 su , on the other hand, is an acronym for switch user or substitute user. You are basically switching to a particular user and you need the password for the user you are switching to. Most often, the user account you switch to is the root account but it can be any account on the system.
 
-### Instal the things you will need
+### Install the things you will need
 
 ##### apt-get update -y // Install and updates the pacages for each outdated system
 ##### apt-get upgrade -y // Confirms the updates
