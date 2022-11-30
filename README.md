@@ -204,6 +204,7 @@ Change port names from 22 to 4242
 ##### 11. sudo service ssh restart
 Check if the config is correct
 
+<img width="672" alt="Screen Shot 2022-11-30 at 9 26 06 AM" src="https://user-images.githubusercontent.com/49612380/204745925-6202acd5-6f86-4274-93fc-da2e48b8e897.png">
 
 
 
