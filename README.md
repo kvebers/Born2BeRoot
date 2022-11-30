@@ -256,13 +256,27 @@ Allows connection to the port 4242
 
 Delete usless ports
 
-##### 18. 
+##### 18. Port Forwarding in VM Advanced settings
+
+Forward rule to VM
 
 <img width="613" alt="Screen Shot 2022-11-30 at 1 01 41 PM" src="https://user-images.githubusercontent.com/49612380/204791689-f7d1b8b6-dec7-4775-b96e-0ab74ae7928a.png">
 
 <img width="803" alt="Screen Shot 2022-11-30 at 1 02 30 PM" src="https://user-images.githubusercontent.com/49612380/204791709-13e84403-95ff-47ae-938d-417769877744.png">
 
 Add the port for connection
+
+##### 19. sudo systemctl restart ssh
+##### 20. sudo service sshd status
+
+<img width="843" alt="Screen Shot 2022-11-30 at 1 10 27 PM" src="https://user-images.githubusercontent.com/49612380/204792826-1f744cc1-080a-44b3-818f-8c9c66de0c93.png">
+
+
+
+
+
+
+
 
 
 
@@ -278,4 +292,5 @@ Add the port for connection
 ##### su-
 ##### sudo visudo
 ##### adduser [user_name] [group]
+##### lsblk
 
