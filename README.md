@@ -189,3 +189,21 @@ INPUT THE PICTURE HERE
  ##### 6. you can add the same config passwd_tries = 3, badpass_message="text", requiretty
 
 The terminal is also represented as a file. There a command exists called tty which displays information related to terminal. The tty command of terminal basically prints the file name of the terminal connected to standard input
+
+##### 7. sudo systemctl status ssh
+Check if the ssh is working $ 
+##### 8. sudo service ssh restart
+Reboot ssh 
+
+##### 9. sudo nano /etc/ssh/sshd_config
+Change port names from 22 to 4242
+
+<img width="1197" alt="Screen Shot 2022-11-30 at 9 24 08 AM" src="https://user-images.githubusercontent.com/49612380/204745198-a2bc7b36-a886-4e31-a239-31e9016b09f9.png">
+
+##### 10. sudo grep Port /etc/ssh/sshd_config
+##### 11. sudo service ssh restart
+Check if the config is correct
+
+
+
+
