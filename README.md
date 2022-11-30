@@ -188,6 +188,8 @@ INPUT THE PICTURE HERE
  
  ##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
  
+ There might be a siituation thhat you do not have a sudo folder, so you can create it here.  
+##### /var/log/sudo
  
  <img width="980" alt="Screen Shot 2022-11-30 at 10 58 10 AM" src="https://user-images.githubusercontent.com/49612380/204765777-509bf082-952b-4ea6-b7a5-2fca50697a9c.png">
 
