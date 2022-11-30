@@ -202,8 +202,6 @@ Add in the
 To read the sudoers file on each Linux or UNIX computer, you must have root-level permission. You can define a command right to grant this level of access to other users. The default location for the sudoers configuration file is /etc/sudoers, and in general, this is the file to import from each computer.
  
  
-INPUT THE PICTURE HERE
- 
 ##### "sudo reboot" usefull command
  
 ##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
@@ -230,9 +228,6 @@ Change port names from 22 to 4242
 
 ![image](https://user-images.githubusercontent.com/49612380/204799189-3c9b045c-2582-47e2-82e5-b651a6dc2f20.png)
 
-Do not forget to uncoment it, made an error there
-
-<img width="926" alt="Screen Shot 2022-11-30 at 1 38 29 PM" src="https://user-images.githubusercontent.com/49612380/204798897-134406bc-0fd5-4e9a-a0b4-0273b491af71.png">
 
 ##### 10. sudo grep Port /etc/ssh/sshd_config
 ##### 11. sudo service ssh restart
