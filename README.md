@@ -204,11 +204,11 @@ To read the sudoers file on each Linux or UNIX computer, you must have root-leve
  
 INPUT THE PICTURE HERE
  
- ##### "sudo reboot" usefull command
+##### "sudo reboot" usefull command
  
- ##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
+##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
  
- There might be a siituation thhat you do not have a sudo folder, so you can create it here.  
+There might be a situation that you do not have a sudo folder, so you can create it here.  
 ##### /var/log/sudo
  
  <img width="980" alt="Screen Shot 2022-11-30 at 10 58 10 AM" src="https://user-images.githubusercontent.com/49612380/204765777-509bf082-952b-4ea6-b7a5-2fca50697a9c.png">
@@ -230,6 +230,10 @@ Change port names from 22 to 4242
 
 ![image](https://user-images.githubusercontent.com/49612380/204799189-3c9b045c-2582-47e2-82e5-b651a6dc2f20.png)
 
+Do not forget to uncoment it, made an error there
+
+<img width="926" alt="Screen Shot 2022-11-30 at 1 38 29 PM" src="https://user-images.githubusercontent.com/49612380/204798897-134406bc-0fd5-4e9a-a0b4-0273b491af71.png">
+
 ##### 10. sudo grep Port /etc/ssh/sshd_config
 ##### 11. sudo service ssh restart
 Check if the config is correct
@@ -250,11 +254,6 @@ Adds a rule to the firewall that allows the use of ssh
 Allows connection to the port 4242
 
 <img width="938" alt="Screen Shot 2022-11-30 at 9 35 04 AM" src="https://user-images.githubusercontent.com/49612380/204747064-b879e5f0-4abf-4a80-8984-b316d3cc359b.png">
-
-Do not forget to uncoment it, made an error there
-
-<img width="926" alt="Screen Shot 2022-11-30 at 1 38 29 PM" src="https://user-images.githubusercontent.com/49612380/204798897-134406bc-0fd5-4e9a-a0b4-0273b491af71.png">
-
 
 ##### 16. sudo ufw status numbered
 
@@ -289,7 +288,8 @@ If all went well you should be able to connect your VM to the terminal
 
 <img width="564" alt="Screen Shot 2022-11-30 at 2 31 13 PM" src="https://user-images.githubusercontent.com/49612380/204809412-e846dfce-256d-4fdf-a33c-0bc757eada8e.png">
 
-##### 22. To stop connection type exit
+##### 22. exit
+To stop connection
 
 
 
