@@ -225,6 +225,11 @@ Change port names from 22 to 4242
 
 <img width="1197" alt="Screen Shot 2022-11-30 at 9 24 08 AM" src="https://user-images.githubusercontent.com/49612380/204745198-a2bc7b36-a886-4e31-a239-31e9016b09f9.png">
 
+
+##### Do not forget to uncoment it
+
+![image](https://user-images.githubusercontent.com/49612380/204799189-3c9b045c-2582-47e2-82e5-b651a6dc2f20.png)
+
 ##### 10. sudo grep Port /etc/ssh/sshd_config
 ##### 11. sudo service ssh restart
 Check if the config is correct
