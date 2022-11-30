@@ -325,23 +325,31 @@ you can check if it was success with
 
 <img width="527" alt="Screen Shot 2022-11-30 at 3 23 30 PM" src="https://user-images.githubusercontent.com/49612380/204821278-e166b394-f084-4696-999c-529defea677f.png">
 
+sudo adduser <username> user42
 
+#### Woho now the script part
 
+### Script and setup of the script
+ 
 ### Important commands
 
-##### sudo ufw allow port
-##### sudo ufw
-##### sudo ufw status numbered
-##### sudo ufw delete
-##### cd
-##### cat
-##### /var/log/sudo
-##### su-
-##### sudo visudo
-##### adduser [user_name] [group]
-##### lsblk
-##### sudo adduser <username> user42
-##### getent group user42
+sudo ufw allow port
+sudo ufw
+sudo ufw status numbered
+sudo ufw delete
+cd
+cat
+/var/log/sudo
+su-
+sudo visudo
+lsblk
+sudo adduser [username] [group]
+getent group [group] for example user42 and evaluating
+sudo adduser [new_username]
+sudo deluser [user_name] [group]
+ip addr
+passwd [user_name]
 
-
+ 
+ 
 
