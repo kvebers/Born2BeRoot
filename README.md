@@ -184,7 +184,13 @@ The Net-tools package is a collection of programs for controlling the network su
 ##### 13. sudo apt-get update -y
 ##### 14. sudo apt-get install -y net-tools
 
+##### 15. sudo apt-get install cron
 
+The crontab command submits, edits, lists, or removes cron jobs. A cron job is a command run by the cron daemon at regularly scheduled intervals. To submit a cron job, specify the crontab command with the -e flag. The crontab command invokes an editing session that allows you to create a crontab file.
+
+##### 16. App armor
+
+No need to install it
 
 https://wiki.debian.org/AppArmor 
 AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
@@ -340,10 +346,15 @@ sudo adduser <username> user42
 
 ## Script and the setup of the script
 
+##### 1. sudo crontab -u root -e
+ 
+Here you will write the script!
+
+##### Choose VIM, or whatever that you can work with
+ 
 
  
- 
-### Important commands
+## Important commands
 
 ###### sudo ufw allow port - allow port to the firewall
 ###### sudo ufw - firewall
