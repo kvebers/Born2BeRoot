@@ -105,6 +105,8 @@ For encrypted volumes, backup passwords are needed
 
 ### And Voila you have setup VM with Debian OS
 
+#### For more efficient work to move mouse from VM to your Mac hold command button.
+
 Run 
 
 #### Command to run lsblk ####
