@@ -177,6 +177,15 @@ libpwquality's purpose is to provide common functions for password quality check
 ##### AppArmor https://linuxhint.com/debian_apparmor_tutorial/ 
 If you are using Debian 10 "Buster" or newer, AppArmor is enabled by default so you can skip this step.
 
+Install the NetTools
+
+The Net-tools package is a collection of programs for controlling the network subsystem of the Linux kernel. This package is known to build and work properly using an LFS-10.1 platform.
+
+##### 13. sudo apt-get update -y
+##### 14. sudo apt-get install -y net-tools
+
+
+
 https://wiki.debian.org/AppArmor 
 AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
 
@@ -330,25 +339,29 @@ sudo adduser <username> user42
 ### Woho now the script part
 
 ## Script and the setup of the script
+
+
+ 
  
 ### Important commands
 
-###### sudo ufw allow port
-###### sudo ufw
-###### sudo ufw status numbered
-###### sudo ufw delete
-###### cd
-###### cat
-###### /var/log/sudo
-###### su-
-###### sudo visudo
-###### lsblk
-###### sudo adduser [username] [group]
-###### getent group [group] for example user42 and evaluating
-###### sudo adduser [new_username]
-###### sudo deluser [user_name] [group]
-###### ip addr
-###### passwd [user_name]
+###### sudo ufw allow port - allow port to the firewall
+###### sudo ufw - firewall
+###### sudo ufw status numbered 
+###### sudo ufw delete - delete firewall permision
+###### cd - move in a folder
+###### cat - display the text 
+###### /var/log/sudo - file location of log out put
+###### su- changes the privilages
+###### sudo visudo - checks the sudoers file
+###### lsblk - checks the machines partions
+###### sudo adduser [username] [group] - adds user to the grou
+###### getent group [group] for example user42 and evaluating 
+###### sudo adduser [new_username] - adds user to the machine
+###### sudo deluser [user_name] [group] - deletes user from the group or machine
+###### ip addr -- checks the ip adddres of the machine
+###### hostnamectl -- change the host name of the VM
+###### passwd [user_name] - change the password of the pax
 
  
  
