@@ -18,7 +18,7 @@ But, I aint an expert in this is so be aware of that fact, so there might be som
 
 1. Debian, also known as Debian GNU/Linux, is a GNU/Linux distribution composed of free and open-source software, developed by the community-supported Debian Project,
 
-2. CentOS is a Linux partition that strives to provide a free enterprise-class computing program that has a 100% binary dealing with its upstream source, Red Hat Enterprise Linux. It does not support many different architectures. This should gain it very, very stable, and become used as a web server.
+2. CentOS is a Linux partition that strives to provide a free enterprise-class computing program that has a 100% binary dealing with its upstream source, Red Hat Enterprise Linux. It does not support many different architectures. This should make it very, very stable, and become used as a web server.
 
 3. Debian is an operating system produced by the Debian project mostly formed of free and open-source software shouldering the GNU General Public License. Though, it also combines non-GPL software outside its official repositories to comply with its guidelines for implementing free software. Debian has almost less marketplace preference. A new version of Debian is usually published with a 2-year gap bugs. Hence these systems are more enduring.
 
