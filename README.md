@@ -246,6 +246,11 @@ Allows connection to the port 4242
 
 <img width="938" alt="Screen Shot 2022-11-30 at 9 35 04 AM" src="https://user-images.githubusercontent.com/49612380/204747064-b879e5f0-4abf-4a80-8984-b316d3cc359b.png">
 
+Do not forget to uncoment it, made an error there
+
+<img width="926" alt="Screen Shot 2022-11-30 at 1 38 29 PM" src="https://user-images.githubusercontent.com/49612380/204798897-134406bc-0fd5-4e9a-a0b4-0273b491af71.png">
+
+
 ##### 16. sudo ufw status numbered
 
 <img width="931" alt="Screen Shot 2022-11-30 at 12 53 54 PM" src="https://user-images.githubusercontent.com/49612380/204790441-9d2e15b4-2866-4642-8d92-656ae2088940.png">
