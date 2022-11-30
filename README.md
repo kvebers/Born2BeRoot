@@ -205,9 +205,12 @@ To read the sudoers file on each Linux or UNIX computer, you must have root-leve
  
  
 ##### "sudo reboot" usefull command
- 
+
+The requiretty option means that the exploit code won't be able to directly upgrade its privileges by running sudo.
+
 ##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
  
+
 There might be a situation that you do not have a sudo folder, so you can create it here.  
 ##### /var/log/sudo
  
