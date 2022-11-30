@@ -186,7 +186,10 @@ INPUT THE PICTURE HERE
  
  ##### "sudo reboot" usefull command
  
- ##### 6. you can add the same config passwd_tries = 3, badpass_message="text", requiretty
+ ##### 6. passwd_tries = 3, badpass_message="text", requiretty logfile="/var/log/sudo/sudo.log", log_input, log_output
+ 
+ 
+ <img width="980" alt="Screen Shot 2022-11-30 at 10 58 10 AM" src="https://user-images.githubusercontent.com/49612380/204765777-509bf082-952b-4ea6-b7a5-2fca50697a9c.png">
 
 The terminal is also represented as a file. There a command exists called tty which displays information related to terminal. The tty command of terminal basically prints the file name of the terminal connected to standard input
 
