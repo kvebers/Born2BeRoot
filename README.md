@@ -207,4 +207,18 @@ Check if the config is correct
 <img width="672" alt="Screen Shot 2022-11-30 at 9 26 06 AM" src="https://user-images.githubusercontent.com/49612380/204745925-6202acd5-6f86-4274-93fc-da2e48b8e897.png">
 
 
+##### 12. sudo ufw enable
+Turn on the firewall
+
+##### 13. sudo ufw status numbered
+Checks the status of the firewall
+
+##### 14. sudo ufw allow ssh
+Adds a rule to the firewall that allows the use of ssh
+
+##### 15. sudo ufw allow 4242
+Allows connection to the port 4242
+
+<img width="938" alt="Screen Shot 2022-11-30 at 9 35 04 AM" src="https://user-images.githubusercontent.com/49612380/204747064-b879e5f0-4abf-4a80-8984-b316d3cc359b.png">
+
 
