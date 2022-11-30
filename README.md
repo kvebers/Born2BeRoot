@@ -286,17 +286,27 @@ If all went well you should be able to connect your VM to the terminal
 ##### 22. exit
 To stop connection
 
+#### Password config!
 
 
+##### 23. Go to sudo nano /etc/pam.d/common-password 
 
+<img width="1202" alt="Screen Shot 2022-11-30 at 2 55 28 PM" src="https://user-images.githubusercontent.com/49612380/204814603-7dca10dc-faea-47b5-b3d1-71f941069b66.png">
 
+Add
 
+##### 24. minlen=10
+to the end of the [sucess=1 default=ignore] in 
 
+and add 
+
+##### 25. lcredit =-1 ucredit=-1 dcredit=-1 maxrepeat=3 usercheck=0 difok=7 enforce_for_root
 
 
 
 ### Important commands
 
+#####
 ##### sudo ufw allow port
 ##### sudo ufw
 ##### sudo ufw status numbered
