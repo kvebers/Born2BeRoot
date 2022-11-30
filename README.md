@@ -311,6 +311,18 @@ and switch the preset dates 9999, 0, 7 to
 
 <img width="262" alt="Screen Shot 2022-11-30 at 3 04 01 PM" src="https://user-images.githubusercontent.com/49612380/204816430-3673c23d-85ba-42eb-a006-467e2cda5d89.png">
 
+#### Add user groups
+
+##### 27. sudo groupadd user42
+##### 28. sudo groupadd evaluating
+
+you can check if it was success with 
+
+##### 29. getent group
+
+<img width="527" alt="Screen Shot 2022-11-30 at 3 23 30 PM" src="https://user-images.githubusercontent.com/49612380/204821278-e166b394-f084-4696-999c-529defea677f.png">
+
+
 
 ### Important commands
 
