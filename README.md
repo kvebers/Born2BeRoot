@@ -333,22 +333,22 @@ sudo adduser <username> user42
  
 ### Important commands
 
-sudo ufw allow port
-sudo ufw
-sudo ufw status numbered
-sudo ufw delete
-cd
-cat
-/var/log/sudo
-su-
-sudo visudo
-lsblk
-sudo adduser [username] [group]
-getent group [group] for example user42 and evaluating
-sudo adduser [new_username]
-sudo deluser [user_name] [group]
-ip addr
-passwd [user_name]
+###### sudo ufw allow port
+###### sudo ufw
+###### sudo ufw status numbered
+###### sudo ufw delete
+###### cd
+###### cat
+###### /var/log/sudo
+###### su-
+###### sudo visudo
+###### lsblk
+###### sudo adduser [username] [group]
+###### getent group [group] for example user42 and evaluating
+###### sudo adduser [new_username]
+###### sudo deluser [user_name] [group]
+###### ip addr
+###### passwd [user_name]
 
  
  
