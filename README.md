@@ -160,7 +160,7 @@ AppArmor is an effective and easy-to-use Linux application security system. AppA
 
 ## Config of the machine
 
-##### 1. adduser username sudo 
+##### 1. adduser username sudo (Must be in -su)
 adds user to the sudo group
 ##### 2. reboot 
 restarts the system
