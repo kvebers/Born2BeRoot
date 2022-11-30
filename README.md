@@ -279,6 +279,15 @@ Add the port for connection
 ##### 19. sudo systemctl restart ssh
 ##### 20. sudo service sshd status
 
+If all went well you should be able to connect your VM to the terminal
+
+##### 21. ssh [your_name]@127.0.0.1 -p 4242
+
+
+
+
+
+
 <img width="843" alt="Screen Shot 2022-11-30 at 1 10 27 PM" src="https://user-images.githubusercontent.com/49612380/204792826-1f744cc1-080a-44b3-818f-8c9c66de0c93.png">
 
 
