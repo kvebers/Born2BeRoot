@@ -221,4 +221,16 @@ Allows connection to the port 4242
 
 <img width="938" alt="Screen Shot 2022-11-30 at 9 35 04 AM" src="https://user-images.githubusercontent.com/49612380/204747064-b879e5f0-4abf-4a80-8984-b316d3cc359b.png">
 
+Important commands
+
+##### sudo ufw status numbered
+##### sudo ufw delete
+
+
+
+
+
+
+
+
 
