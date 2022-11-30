@@ -28,7 +28,7 @@ But, I aint an expert in this is so be aware of that fact, so there might be som
 
 <img width="968" alt="Screen Shot 2022-11-28 at 3 37 26 PM" src="https://user-images.githubusercontent.com/49612380/204305852-b26f4427-b371-442a-9a30-568a42e337a6.png">
 
-
+<pictures>
 <img width="1269" alt="Screen Shot 2022-11-28 at 3 36 44 PM" src="https://user-images.githubusercontent.com/49612380/204305866-49c01ff0-8d7e-40c8-845a-88426f38a84b.png">
 
 #### Choose 8 GB for task withhout bonus and 30.8 for Bonus ####
@@ -253,7 +253,7 @@ Important commands
 
 
 
-
+</pictures>
 
 
 
