@@ -327,9 +327,9 @@ you can check if it was success with
 
 sudo adduser <username> user42
 
-#### Woho now the script part
+### Woho now the script part
 
-### Script and the setup of the script
+## Script and the setup of the script
  
 ### Important commands
 
