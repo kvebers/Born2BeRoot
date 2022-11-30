@@ -64,6 +64,26 @@ But, I aint an expert in this is so be aware of that fact, so there might be som
 
 <img width="1197" alt="Screen Shot 2022-11-28 at 3 51 54 PM" src="https://user-images.githubusercontent.com/49612380/204307918-ff5b4181-ac13-443a-b470-c2f5f4524633.png">
 
+LVM or Logical Volume Management, provides a higher-level view of the disk storage on a computer system. This gives the SysAdministrator much more flexibility when it comes to allocating storage to appliactions and users.
+
+Storage volumes that are created under the control of LVM can be resized and moved around.
+
+More details:
+Physical Volumes or PV -> Hard disk, hard disk partitions, RAID or LUNs from a SAN.
+
+Volume Groups or VG -> Collection of one or more Physical Volumes.
+
+Logical Volumes or LV -> Virtual partitions inside Volume Groups.
+
+Physical Extents or PE -> Block of data which are necessary to manipulate the actual data.
+
+Logical Extents or LE -> Physical Extents but on a Logical Volume level. The size of blocks are the same for each logical volume in the same volume group.
+
+Encrypted LVM
+When formatting a LVM Volume there is the possibility to choose between encrypted or not encrypted. The encrypted options allows to protect valuable data like volume,s olid state disk or hard drive.
+
+For encrypted volumes, backup passwords are needed
+
 <img width="1195" alt="Screen Shot 2022-11-28 at 3 52 43 PM" src="https://user-images.githubusercontent.com/49612380/204308215-89e3918a-3361-400e-9fc9-878dde46e0f6.png">
 
 #### Finish
