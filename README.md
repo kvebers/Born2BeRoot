@@ -1,3 +1,7 @@
+md.renderer.rules.image = function () {
+    return "";
+};
+
 # UnixFABETS GUIDE to Born2BeRoot #
 ## WARNING I AM UNIXFABET, so be aware of that ##
 Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
