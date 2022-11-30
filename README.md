@@ -6,8 +6,7 @@ But, I aint an expert in this is so be aware of that fact, so there might be som
 
 #### Some cool stuff you can do to improve your own workflow and experiment with the code later, is to take snapshoots and revert. back to the versions that you did not understand or where you have worries that you did an incorrect setup
 
-<a> <img width="893" alt="Screen Shot 2022-11-29 at 7 00 28 PM" src="https://user-images.githubusercontent.com/49612380/204608711-88c13899-1bf7-4dd1-8bd3-ae1c15766269.png"> </a>
-
+<img width="893" alt="Screen Shot 2022-11-29 at 7 00 28 PM" src="https://user-images.githubusercontent.com/49612380/204608711-88c13899-1bf7-4dd1-8bd3-ae1c15766269.png">
 
 ##### Some extra reading material 
 
@@ -247,7 +246,36 @@ Allows connection to the port 4242
 
 <img width="938" alt="Screen Shot 2022-11-30 at 9 35 04 AM" src="https://user-images.githubusercontent.com/49612380/204747064-b879e5f0-4abf-4a80-8984-b316d3cc359b.png">
 
-Important commands
+##### 16. sudo ufw status numbered
 
+<img width="931" alt="Screen Shot 2022-11-30 at 12 53 54 PM" src="https://user-images.githubusercontent.com/49612380/204790441-9d2e15b4-2866-4642-8d92-656ae2088940.png">
+
+##### 17. sudo ufw delete number
+
+<img width="939" alt="Screen Shot 2022-11-30 at 12 57 12 PM" src="https://user-images.githubusercontent.com/49612380/204790456-175a195e-b0a6-4974-ab4e-05ce5576564f.png">
+
+Delete usless ports
+
+##### 18. 
+
+<img width="613" alt="Screen Shot 2022-11-30 at 1 01 41 PM" src="https://user-images.githubusercontent.com/49612380/204791689-f7d1b8b6-dec7-4775-b96e-0ab74ae7928a.png">
+
+<img width="803" alt="Screen Shot 2022-11-30 at 1 02 30 PM" src="https://user-images.githubusercontent.com/49612380/204791709-13e84403-95ff-47ae-938d-417769877744.png">
+
+Add the port for connection
+
+
+
+### Important commands
+
+##### sudo ufw allow port
+##### sudo ufw
 ##### sudo ufw status numbered
 ##### sudo ufw delete
+##### cd
+##### cat
+##### /var/log/sudo
+##### su-
+##### sudo visudo
+##### adduser [user_name] [group]
+
