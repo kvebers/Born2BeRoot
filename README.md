@@ -329,7 +329,7 @@ sudo adduser <username> user42
 
 #### Woho now the script part
 
-### Script and setup of the script
+### Script and the setup of the script
  
 ### Important commands
 
