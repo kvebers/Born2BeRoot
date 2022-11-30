@@ -329,7 +329,6 @@ you can check if it was success with
 
 ### Important commands
 
-#####
 ##### sudo ufw allow port
 ##### sudo ufw
 ##### sudo ufw status numbered
@@ -341,4 +340,8 @@ you can check if it was success with
 ##### sudo visudo
 ##### adduser [user_name] [group]
 ##### lsblk
+##### sudo adduser <username> user42
+##### getent group user42
+
+
 
