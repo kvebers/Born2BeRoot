@@ -374,7 +374,11 @@ Key notes for work in VIM
 ##### :q for quit
 ##### :q! for quit and not save
 
+##### 3. Go to your monitoring.sh file and start editing it
  
+## THE SCRIPT
+
+
 
 ## Important commands
 
