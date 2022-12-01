@@ -1,7 +1,11 @@
 
 # UnixFABETS GUIDE to Born2BeRoot #
 ## WARNING I AM UNIXFABET, so be aware of that ##
-Hey, this is my first time toching linux and using OS, without grafical interface, so if you are feeling the same, you might have a read!
+
+UnixFABET person who dosen't coprehend unix.
+
+
+Hey, this is my first time toching linux and using OS without grafical interface. So if you are expiuriencing the same have a read!
 But, I aint an expert in this is so be aware of that fact, so there might be some errors.
 
 #### Some cool stuff you can do to improve your own workflow and experiment with the code later, is to take snapshoots and revert. back to the versions that you did not understand or where you have worries that you did an incorrect setup
@@ -358,6 +362,19 @@ Here you will write the script!
 Add your required time and path to the file, crontab file explenations, in short explenations of the starts (min, hour, day, specific day of month, specific month, specific day)
 
 <img width="680" alt="Screen Shot 2022-12-01 at 10 00 10 AM" src="https://user-images.githubusercontent.com/49612380/205010372-5129d335-32e0-465d-9ff1-b177db396aba.png">
+ 
+As a bonus I added an 
+##### BONUS. /usr/local/bin/monitoring.sh > /usr/local/bin/monitoring.txt 2>&1, and I also added an symbol for the monitoring script
+ 
+Key notes for work in VIM 
+
+##### A or E, start writing in Vim
+##### Esc for stoping work in Vim
+##### :wq for save and quit
+##### :q for quit
+##### :q! for quit and not save
+
+ 
 
 ## Important commands
 
