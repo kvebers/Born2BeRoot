@@ -352,8 +352,13 @@ Here you will write the script!
 
 ##### Choose VIM, or whatever that you can work with
  
+<img width="854" alt="Screen Shot 2022-12-01 at 9 59 46 AM" src="https://user-images.githubusercontent.com/49612380/205010340-e3e2f188-4f57-47b5-b79b-a80f95009bbf.png">
 
- 
+##### 2. */10 * * * * * /path/monitoring.sh
+Add your required time and path to the file, crontab file explenations, in short explenations of the starts (min, hour, day, specific day of month, specific month, specific day)
+
+<img width="680" alt="Screen Shot 2022-12-01 at 10 00 10 AM" src="https://user-images.githubusercontent.com/49612380/205010372-5129d335-32e0-465d-9ff1-b177db396aba.png">
+
 ## Important commands
 
 ###### sudo ufw allow port - allow port to the firewall
