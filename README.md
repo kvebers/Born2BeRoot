@@ -354,8 +354,13 @@ Key notes for work in VIM
 ##### :q! for quit and not save
 
 ##### 3. Go to your monitoring.sh file and start editing it
- 
 ## THE SCRIPT
+ 
+
+echo - echo will print output, but it will often disappear by the time your script is done.
+awk - Mostly used for pattern scanning and processing
+NR - Number of Records (special command for awk)
+NF - a predefined variable whose value is the number of fields in the current record. awk automatically updates the value of NF each time it reads a record. No matter how many fields there are, the last field in a record can be represented by $NF 
 
 
 
