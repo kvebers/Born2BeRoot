@@ -344,8 +344,7 @@ Add your required time and path to the file, crontab file explenations, in short
 <img width="680" alt="Screen Shot 2022-12-01 at 10 00 10 AM" src="https://user-images.githubusercontent.com/49612380/205010372-5129d335-32e0-465d-9ff1-b177db396aba.png">
  
 As a bonus I added an 
-##### Just an idea of log backup, not important tho. /usr/local/bin/monitoring.sh > /usr/local/bin/monitoring.txt 2>&1, and I also added an symbol for the monitoring script
- 
+##### Just an idea of log backup, not important tho. /usr/local/bin/monitoring.sh > /usr/local/bin/monitoring.txt 2>&1
 Key notes for work in VIM 
 
 ##### A or E, start writing in Vim
