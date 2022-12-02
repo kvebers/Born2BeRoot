@@ -2,7 +2,7 @@
 # UnixFABETS GUIDE to Born2BeRoot #
 ## WARNING I AM UNIXFABET, so be aware of that ##
 
-UnixFABET person who dosen't coprehend unix.
+UnixFABET - person who dosen't coprehend unix.
 
 
 Hey, this is my first time toching linux and using OS without grafical interface. So if you are experiencing the same have a read!
