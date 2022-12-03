@@ -415,7 +415,7 @@ And you should be done!
 ###### ip addr -- checks the ip adddres of the machine
 ###### hostnamectl -- change the host name of the VM
 ###### passwd [user_name] - change the password of the pax
-
+###### getent group
  
  
 
