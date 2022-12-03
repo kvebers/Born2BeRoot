@@ -362,6 +362,12 @@ awk - Mostly used for pattern scanning and processing
 NR - Number of Records (special command for awk)
 NF - a predefined variable whose value is the number of fields in the current record. awk automatically updates the value of NF each time it reads a record. No matter how many fields there are, the last field in a record can be represented by $NF 
 
+echo -n -e "Arch :"; uname -a
+echo -n -e "CPU :; grep -C ^processor /proc/cpuinfo
+echo -n -e; cat /proc/cpuinfo | grep processor } wc -l
+echo -n -e "Memory useage "; free -m | awk 'NR==2{printf"(%s", $3}'
+echo -n -e "\"; free | awk 'NR==2{printf"%s)MB", $2}'
+echo -n -e " " free | awk 'NR==2{printf"(%.2f%%\n", $3/$2*100}'
 
 
 ## Important commands
