@@ -391,6 +391,9 @@ printf "\n"
 */10 * * * * /usr/local/bin/monitoring.sh | wall
 */10 * * * * /usr/local/bin/monitoring.sh > /usr/local/bin/monitoring.log 2>&1
  </pre>
+ 
+And you should be done! 
+
 ## Important commands
 
 ###### sudo ufw allow port - allow port to the firewall
