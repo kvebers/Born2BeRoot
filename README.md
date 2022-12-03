@@ -362,12 +362,27 @@ awk - Mostly used for pattern scanning and processing
 NR - Number of Records (special command for awk)
 NF - a predefined variable whose value is the number of fields in the current record. awk automatically updates the value of NF each time it reads a record. No matter how many fields there are, the last field in a record can be represented by $NF 
 
-echo -n -e "Arch :"; uname -a
-echo -n -e "CPU :; grep -C ^processor /proc/cpuinfo
-echo -n -e; cat /proc/cpuinfo | grep processor } wc -l
-echo -n -e "Memory useage "; free -m | awk 'NR==2{printf"(%s", $3}'
-echo -n -e "\"; free | awk 'NR==2{printf"%s)MB", $2}'
-echo -n -e " " free | awk 'NR==2{printf"(%.2f%%\n", $3/$2*100}'
+ #!/bin/bash
+
+echo -n -e "Architecture: "; uname -a
+echo -n -e "CPU : "; grep -c ^processor /proc/cpuinfo
+echo -n -e "vCPU : "; cat /proc/cpuinfo | grep processor | wc -l
+echo -n -e "Memory usage: ";  free -m | awk 'NR==2{printf"(%s", $3}'
+echo -n -e "/"; free -m | awk 'NR==2{printf"%s)MB", $2}'
+echo -n -e "  "; free | awk 'NR==2{printf"(%.2f%%)\n", $3/$2*100}'
+echo -n -e "Disk usage: "; df -h | awk 'NR==4{printf "(%.2f", $3}'
+echo -n -e "/"; df -h | awk 'NR==4{printf "%.2f)GB", $2}'
+echo -n -e "  "; df -h | awk 'NR==4{printf "(%s)\n", $5}'
+echo -n -e "CPU load:  "; top -bn1 |grep load | awk '{printf "%.2f%%\n", $(NF-2)}'
+echo -n -e "Last boot: "; who | awk '{printf $3 " " $4 "\n"}'
+echo -n -e "Number of LVM's:"; if lsblk | grep "lvm" | wc -l; then echo -n -e "LVM use: Yes\n"; else echo -n -e "LVM use: No\n"; fi
+echo -n -e "Connections TCP: "; cat /proc/net/tcp | wc -l | awk '{printf $1 - 1" ESTABLISHED\n"}'
+echo -n -e "User log: "; w | wc -l | awk '{printf$1 - 2 "\n"}'
+echo -n -e "Network: IP "; ip route list | grep link | awk '{printf $9}'
+echo -n -e "  "; ip link show | grep link/ether | awk '{printf $2 "\n"}'
+echo -n -e "#Sudo: ";cat /var/log/sudo/sudo.log | wc -l | tr '\n' ' ' && echo "cmd";
+printf "\n"
+
 
 
 ## Important commands
