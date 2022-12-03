@@ -384,7 +384,13 @@ echo -n -e "  "; ip link show | grep link/ether | awk '{printf $2 "\n"}'
 echo -n -e "#Sudo: ";cat /var/log/sudo/sudo.log | wc -l | tr '\n' ' ' && echo "cmd";
 printf "\n"
 </pre>
+ 
+###### To display this commands you need to go to your crontab 
 
+ <pre>
+*/10 * * * * /usr/local/bin/monitoring.sh | wall
+*/10 * * * * /usr/local/bin/monitoring.sh > /usr/local/bin/monitoring.log 2>&1
+ </pre>
 ## Important commands
 
 ###### sudo ufw allow port - allow port to the firewall
