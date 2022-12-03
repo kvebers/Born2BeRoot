@@ -364,6 +364,7 @@ NF - a predefined variable whose value is the number of fields in the current re
 
  #!/bin/bash
 
+ <pre>
 echo -n -e "Architecture: "; uname -a
 echo -n -e "CPU : "; grep -c ^processor /proc/cpuinfo
 echo -n -e "vCPU : "; cat /proc/cpuinfo | grep processor | wc -l
@@ -382,8 +383,7 @@ echo -n -e "Network: IP "; ip route list | grep link | awk '{printf $9}'
 echo -n -e "  "; ip link show | grep link/ether | awk '{printf $2 "\n"}'
 echo -n -e "#Sudo: ";cat /var/log/sudo/sudo.log | wc -l | tr '\n' ' ' && echo "cmd";
 printf "\n"
-
-
+</pre>
 
 ## Important commands
 
