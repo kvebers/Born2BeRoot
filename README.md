@@ -297,6 +297,8 @@ go to
 
 <img width="1202" alt="Screen Shot 2022-11-30 at 2 55 28 PM" src="https://user-images.githubusercontent.com/49612380/204814603-7dca10dc-faea-47b5-b3d1-71f941069b66.png">
 
+##### Do not have spaces after the 
+
 Add
 
 ##### 24. minlen=10
@@ -304,7 +306,7 @@ to the end of the [sucess=1 default=ignore] in
 
 and add 
 
-##### 25. lcredit =-1 ucredit=-1 dcredit=-1 maxrepeat=3 usercheck=0 difok=7 enforce_for_root
+##### 25. lcredit=-1 ucredit=-1 dcredit=-1 maxrepeat=3 usercheck=0 difok=7 enforce_for_root
 
 go to 
 ##### 26. sudo nano /etc/login.defs
@@ -313,7 +315,7 @@ and switch the preset dates 9999, 0, 7 to
 
 <img width="262" alt="Screen Shot 2022-11-30 at 3 04 01 PM" src="https://user-images.githubusercontent.com/49612380/204816430-3673c23d-85ba-42eb-a006-467e2cda5d89.png">
 
-#### Add user groups
+#### No spaces between the characters (the password manager won't work then)
 
 ##### 27. sudo groupadd user42
 ##### 28. sudo groupadd evaluating
