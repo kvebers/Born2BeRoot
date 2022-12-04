@@ -413,7 +413,8 @@ And you should be done!
 ###### sudo adduser [new_username] - adds user to the machine
 ###### sudo deluser [user_name] [group] - deletes user from the group or machine
 ###### ip addr -- checks the ip adddres of the machine
-###### hostnamectl -- change the host name of the VM
+###### hostnamectl -- check out the host
+###### hostnamectl set-hostname
 ###### passwd [user_name] - change the password of the pax
 ###### getent group
  
