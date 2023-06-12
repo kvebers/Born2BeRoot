@@ -1,14 +1,9 @@
+# GUIDE to Born2BeRoot
 
-# UnixFABETS GUIDE to Born2BeRoot #
-## WARNING I AM UNIXFABET, so be aware of that ##
+Hey, this is my first time touching Linux and using an OS without a graphical interface. So if you are experiencing the same, have a read!
+But, I ain't an expert in this, so be aware of that fact. There might be some errors.
 
-UnixFABET - person who dosen't coprehend unix.
-
-
-Hey, this is my first time toching linux and using OS without grafical interface. So if you are experiencing the same have a read!
-But, I aint an expert in this is so be aware of that fact, so there might be some errors.
-
-#### Some cool stuff you can do to improve your own workflow and experiment with the code later, is to take snapshoots and revert. back to the versions that you did not understand or where you have worries that you did an incorrect setup
+#### Some cool stuff you can do to improve your workflow and experiment with the code later is to take snapshots and revert back to the versions that you did not understand or where you have worries that you did an incorrect setup.
 
 <img width="893" alt="Screen Shot 2022-11-29 at 7 00 28 PM" src="https://user-images.githubusercontent.com/49612380/204608711-88c13899-1bf7-4dd1-8bd3-ae1c15766269.png">
 
@@ -20,13 +15,14 @@ But, I aint an expert in this is so be aware of that fact, so there might be som
 
 ##### The basic summary:
 
-1. Debian, also known as Debian GNU/Linux, is a GNU/Linux distribution composed of free and open-source software, developed by the community-supported Debian Project,
 
-2. CentOS is a Linux partition that strives to provide a free enterprise-class computing program that has a 100% binary dealing with its upstream source, Red Hat Enterprise Linux. It does not support many different architectures. This should make it very, very stable, and become used as a web server.
+1. Debian, also known as Debian GNU/Linux, is a GNU/Linux distribution composed of free and open-source software, developed by the community-supported Debian Project.
 
-3. Debian is an operating system produced by the Debian project mostly formed of free and open-source software shouldering the GNU General Public License. Though, it also combines non-GPL software outside its official repositories to comply with its guidelines for implementing free software. Debian has almost less marketplace preference. A new version of Debian is usually published with a 2-year gap bugs. Hence these systems are more enduring.
+2. CentOS is a Linux distribution that strives to provide a free enterprise-class computing platform that has 100% binary compatibility with its upstream source, Red Hat Enterprise Linux. It does not support many different architectures. This should make it very stable and suitable for use as a web server.
 
-4. Debian has much more packages in its default repositories than CentOS.
+3. Debian is an operating system produced by the Debian project, mostly comprised of free and open-source software, adhering to the GNU General Public License. However, it also includes non-GPL software outside its official repositories to comply with its guidelines for implementing free software. Debian has less market share compared to other operating systems. A new version of Debian is usually released with a 2-year gap between releases, focusing on bug fixes. Hence, these systems are more reliable and long-lasting.
+
+4.Debian has many more packages in its default repositories than CentOS.
 
  ### Seting up the Debian ###
 
